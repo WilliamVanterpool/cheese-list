@@ -1,5 +1,5 @@
 swiss
 gorganzola
 provolone
-cheese 4
-cheese 5
+cheddar
+gouda
